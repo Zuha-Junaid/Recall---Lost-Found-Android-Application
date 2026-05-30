@@ -6,6 +6,8 @@ Built as part of a Mobile Application Development (MAD) project, the application
 
 🚀 Features
 
+WALKTHROUGH: https://drive.google.com/file/d/1GvTMs-rXmWNwPulIn9EfSjwWZQkUa0b4/view?usp=sharing
+
 👤 User Management
 
 Email & password authentication via Firebase Auth
